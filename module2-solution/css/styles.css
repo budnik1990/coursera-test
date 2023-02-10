@@ -38,7 +38,7 @@ p {
 .columnContainer {
     margin: 10px 10px;
     background-color: lightgray;
-    border-width: 2px;
+    border-width: 1px;
     border-color: black;
     border-style: solid;
 }
@@ -51,7 +51,7 @@ p {
     margin: 0;
     margin-bottom: 10px;
     border-color: black;
-    border-width: 0px 0px 2px 2px;
+    border-width: 0px 0px 1px 1px;
     border-style: solid;
     padding: 5px 40px;
 }

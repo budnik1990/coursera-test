@@ -1,0 +1,46 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.navbar-main {
+    background-color: lightgray;
+    padding: 0px;
+}
+
+h1 {
+    margin: 0  0 0 40px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+}
+
+.navbar-main .navbar-toggler {
+    margin-right: 40px;
+}
+
+.navbar-main .navbar-toggler:not(.collapsed) {
+    background-color: #b3b3b3;
+}
+
+hr {
+    margin: 0;
+}
+
+h2 {
+    margin: 40px 0;
+}
+
+.tile {
+    background-color: lightgray;
+    padding: 10px;
+}
+
+.container-main {
+    margin-left: 40px;
+    margin-right: 40px;
+}
